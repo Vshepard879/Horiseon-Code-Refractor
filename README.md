@@ -24,6 +24,9 @@ SO THAT our own site is optimized for search engines
 
 
 ## Screenshot
- assets\images\_C__Users_Vinny_Documents_GitHub_index.html.png  
+```md
+    ![alt text](assets/images/screenshot.png)
+    ```
+
     
 

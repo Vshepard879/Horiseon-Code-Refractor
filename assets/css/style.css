@@ -40,7 +40,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Header Style End*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* benefits Style End*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -195,6 +195,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }

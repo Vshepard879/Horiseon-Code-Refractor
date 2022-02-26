@@ -2,19 +2,23 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- Provided a concise title.
+- Fixed the navigation function for the Search Engine Optimization
+- Updated the semantic HTML elements, ochanging div elements to Header, Section, Article, Aside, and Footer.
+- Added decriptive and accesibble alt atrribute to all images.
+- Adjusted the footer header to H4
 
 
-## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-## Usage
+## Tools used
+
+- HTML
+- CSS
 
 Provide instructions and examples for use. Include screenshots as needed.
 
@@ -24,12 +28,3 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ![alt text](assets/images/screenshot.png)
     ```
 
-## Credits
-
-Vincent Shepard
-https://github.com/Vshepard879
-
-The Coding Bootcamp
-https://github.com/coding-boot-camp
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-## License

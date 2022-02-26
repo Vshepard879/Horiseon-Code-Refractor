@@ -21,11 +21,9 @@ SO THAT our own site is optimized for search engines
 - HTML
 - CSS
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+## Screenshot
+ assets\images\_C__Users_Vinny_Documents_GitHub_index.html.png  
+    
 

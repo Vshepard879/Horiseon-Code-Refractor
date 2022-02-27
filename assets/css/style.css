@@ -161,14 +161,13 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
 .online-reputation-management img {
     max-height: 200px;
 }
 
+.search-engine-optimization img{
+    max-height: 200px;
+}
 .social-media-marketing img {
     max-height: 200px;
 }
@@ -187,6 +186,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 /* Footer Style Start*/
 footer {
     padding: 30px;
